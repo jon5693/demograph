@@ -1,0 +1,90 @@
+#header {
+	min-height:20%;
+	background-color:yellow;
+}
+
+#intro {
+	min-height:15%;
+	background-color:blue;
+}
+
+#charts {
+	background-color:purple;
+}
+
+#footer {
+	min-height:20%;
+	background-color:red;
+}
+
+.chart {
+	
+}
+
+.chart-a {
+	
+}
+
+.chart-b {
+	
+}
+
+#pop-growth-a {}
+
+#pop-growth-b {}
+
+#pop-race-a {}
+
+#pop-race-b {}
+
+#pop-gender-a {}
+
+#pop-gender-b {}
+
+#pop-mf-a {}
+
+#pop-mf-b {}
+
+#pop-mf-18-a {}
+
+#pop-mf-18-b {}
+
+#pop-mf-30-a {}
+
+#pop-mf-30-b {}
+
+#pop-mf-45-a {}
+
+#pop-mf-45-b {}
+
+#pop-mf-60-a {}
+
+#pop-mf-60-b {}
+
+#marital-a {}
+
+#marital-b {}
+
+#income-a {}
+
+#income-b {}
+
+#education-a {}
+
+#education-b {}
+
+#hpi-a {}
+
+#hpi-b {}
+
+#hpi-growth-a {}
+
+#hpi-growth-b {}
+
+#home-cost-a {}
+
+#home-cost-b {} 
+
+#schools-a {}
+
+#schools-b {}
